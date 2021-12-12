@@ -1,0 +1,158 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    text-align: center;
+    display: block;
+}
+
+header {
+    margin: 40px 0;
+}
+h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 95px;
+}
+.colourcontainer {
+    display: block;
+    border: 2px solid black;
+    width: 80%;
+    margin: 20px auto;
+}
+
+h2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 50px;
+}
+
+.colourpanel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.primarycolour {
+    background-color: #E8CFC9;
+    padding: 50px;
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 30px;
+}
+
+.backgroundcolour {
+    background-color: #F8F0EA;
+    padding: 55px;
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 30px;
+}
+
+.statementcolour {
+    background-color: #CED6CD;
+    padding: 50px;
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 30px;
+}
+
+.backgroundcolour2 {
+    background-color: #DDE0DB;
+    padding: 50px;
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 30px;
+}
+
+.backgroundcolour3 {
+    background-color: #DEE8E3;
+    padding: 45px;
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 30px;
+}
+
+.fontscontainer {
+    display: block;
+    border: 2px solid black;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.fontpanel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center space-between;
+}
+
+h3 {
+    text-decoration: underline;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.DMSerifDisplay {
+    padding: 30px;
+    font-family: 'DM Serif Display', serif;
+    font-size: 18px;
+    align-items: center;
+}
+
+.FiraSans {
+    padding: 30px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    align-items: center;
+}
+
+.Poppins {
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    align-items: center;
+}
+
+.textstyles {
+    display: block;
+    border: 2px solid black;
+    width: 80%;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: none;
+}
+h4 {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.heading1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 28px;
+    margin: 20px;
+}
+
+h5 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.subheading {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 23px;
+    margin: 20px;
+}
+
+h6 {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.paragraph {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin: 20px;
+}
